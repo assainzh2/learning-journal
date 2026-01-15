@@ -21,6 +21,8 @@ Git: Pro Git (free online), GitHub Guides
 Docker: Docker Getting Started
 VS Code: official docs and shortcuts
 
+#**I realised I won't be using the resources but learn with practice and questions to AI if I need help**
+
 **Week 1: Web fundamentals I (HTML + CSS)**
 
 Learn: semantic HTML, CSS layout (Flexbox, Grid), responsive design
@@ -29,6 +31,7 @@ Deliverables:
 A deployed static page (GitHub Pages/Netlify)
 Accessibility check (Lighthouse score ≥ 90)
 Resources: MDN Web Docs, FreeCodeCamp Responsive Web Design
+**Done with this. I built an interactive profile page. Learned a lot about HTML and CSS. Link: https://assainzh2.github.io/personal-site/#contact**
 
 **Week 2: Web fundamentals II (JavaScript)**
 
